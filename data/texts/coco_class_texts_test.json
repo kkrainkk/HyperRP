@@ -1,0 +1,12 @@
+[
+    ["airplane"], ["apple"], ["backpack"], ["banana"], ["bear"], ["bed"], ["bench"],
+    ["bicycle"], ["bird"], ["boat"], ["book"], ["bottle"], ["bowl"], ["broccoli"],
+    ["bus"], ["cake"], ["car"], ["carrot"], ["cat"], ["chair"], ["clock"], ["couch"],
+    ["cow"], ["cup"], ["dog"], ["donut"], ["elephant"], ["fork"], ["frisbee"],
+    ["giraffe"], ["handbag"], ["horse"], ["keyboard"], ["kite"], ["knife"],
+    ["laptop"], ["microwave"], ["motorcycle"], ["mouse"], ["orange"], ["oven"],
+    ["person"], ["pizza"], ["refrigerator"], ["remote"], ["sandwich"], ["scissors"],
+    ["sheep"], ["sink"], ["skateboard"], ["skis"], ["snowboard"], ["spoon"],
+    ["suitcase"], ["surfboard"], ["tie"], ["toaster"], ["toilet"], ["toothbrush"],
+    ["train"], ["truck"], ["tv"], ["umbrella"], ["vase"], ["zebra"]
+]
